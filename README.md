@@ -1,6 +1,10 @@
-# SLSA Azure DevOps Demo
+# SLSA Azure DevOps Demo oalberts Fork
 
-A proof-of-concept SLSA provenance generator for Azure DevOps Pipelines.
+Forked @gattjoe's proof-of-concept SLSA provenance generator for Azure DevOps Pipelines. Goals for this fork include:
+* Expanding upon the metadata currently generated
+* Exploring ways to start doing SLSA level 3 stuff (validation etc.)
+  * [This repo](https://github.com/slsa-framework/github-actions-demo) does SLSA level 3 stuff for GitHub native projects, so I'll probably look to that for a lot of inspiration
+* Figuring out how to deploy this?
 
 ## Background
 
