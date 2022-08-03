@@ -6,10 +6,10 @@
     "description": "A proof-of-concept SLSA provenance generator for Azure DevOps Pipelines.",
     "helpMarkDown": "File an issue at https://github.com/slsa-framework/azure-devops-demo/issues for support.",
     "category": "Utility",
-    "author": "Joe Gatt",
+    "author": "Joe Gatt, modified by Olivia Alberts",
     "version": {
         "Major": 0,
-        "Minor": 32,
+        "Minor": 33,
         "Patch": 0
     },
     "runsOn": [
